@@ -15,8 +15,7 @@ The repository offers a range of exciting features and assets to enhance users' 
 ![enter image description here](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
 
 3. Xylotron design with LEGO: Immerse yourself in the captivating realm of wood anatomy with our Xylotron gamification. This gamification allows users to design and assemble a Xylotron using LEGO parts to explore the internal structures of different wood species. See it in action in the video below: 
-http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4
-
+[![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
 5. Wood Species Identification: Engage in a hands-on experience where you'll virtually dissect and analyze wood samples using the designed Xylotron. Uncover the intricate patterns and characteristics that define each species, deepening your understanding of plant and wood science and its applications and raising awareness on fighting illegal logging.
 
 We invite you to explore these captivating experiences and unlock the wonders of the plant science metaverse.
