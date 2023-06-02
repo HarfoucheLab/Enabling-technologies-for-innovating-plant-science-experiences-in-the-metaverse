@@ -1,33 +1,34 @@
 
 
+
 # The plant science metaverse
 
-Welcome to 'the plant science metaverse' repository!
+Welcome to the 'Plant science metaverse' repository!
 
-This repository aims to help users design and build immersive virtual reality (VR) experiences that enable the exploration of the plant science world in the metaverse. By leveraging the power of Unity, UdonSharp, VRChat, and our Unity packages, this repository enables the creation of interactive, gamified, bias-free VR worlds and more diverse and inclusive avatars to advance plant science education, training, research, and innovation.
+This repository aims to help users design and build immersive virtual reality (VR) experiences that enable the exploration of the plant science world in the metaverse. By leveraging the power of Unity, UdonSharp, VRChat, and our Unity packages, this repository enables the creation of interactive, gamified, bias-free VR worlds and more diverse and inclusive human avatars to advance plant science education, training, research, and innovation.
 
 The repository offers a range of exciting features and assets to enhance users' VR experience. Here's a glimpse of the content you'll find in this repository:
 
-1. Avatar flight system: Soar through the virtual skies with our avatar flight system! This unique code, built on top of UdonToolkit, allows avatars to take flight in VRChat. Experience the exhilaration of freely navigating virtual environments, unlocking new perspectives on the world of plant science. See it in action in the video below: 
+**1. Avatar flight system:** Soar through the virtual skies with our avatar flight system! Our unique code, built on top of UdonToolkit, allows avatars to take flight in VRChat. Experience the exhilaration of freely navigating virtual environments, unlocking new perspectives on the world of plant science. See it in action in the video below: 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
 
-2. Avatar accessories: To make your VR worlds and avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed clothing.
-![enter image description here](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
+**2. Human avatar accessories:** To make your VR worlds and human avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed team clothing.
+![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
 
-3. Xylotron design with LEGO: Immerse yourself in the captivating realm of wood anatomy with our Xylotron gamification. This gamification allows users to design and assemble a Xylotron using LEGO parts to explore the internal structures of different wood species. See it in action in the video below: 
+**3. Xylotron system design with LEGO:** Immerse yourself in the captivating realm of wood anatomy with our VR-based digital Xylotron system gamification. The Xylotron is an AI wood identification system that leverages Xyloscope, a digital imaging system for viewing and recording macroscopic images of wood, to classify wood species. Our gamified package allows users to design and assemble a simulated Xylotron system using LEGO bricks to explore the internal structures of different wood species. See it in action in the video below: 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
 
-4. Wood Species Identification: Engage in a hands-on experience where you'll virtually dissect and analyze wood samples using the designed Xylotron. Uncover the intricate patterns and characteristics that define each species, deepening your understanding of plant and wood science and its applications and raising awareness on fighting illegal logging.  See it in action in the video below: [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_functional.mp4)
+**4. Wood species identification:** Engage in a hands-on experience where you'll virtually prepare, phenotype, and analyze wood samples using the designed VR-based digital Xylotron system from our package. The package allows users to add an RFID tag to wood samples for enhanced traceability and data management which contributes to the fight against illegal logging and illegal wood trade. RFID enables automated identification and tracking of wood samples, improving inventory management and record-keeping. It aids in quality control, research, and supply chain management, offering advantages in authenticity verification and data association and thus, helps to prevent the circulation of illegally sourced wood in the supply chain. Uncover the intricate patterns and characteristics that define each species, deepening your understanding of plant and wood science and its applications, and raising awareness on fighting illegal logging and illegal wood trade.  See it in action in the video below: [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_functional.mp4)
 
-We invite you to explore these captivating experiences and unlock the wonders of the plant science metaverse.
+We invite you to explore these captivating VR experiences and unlock the wonders of the Plant science metaverse.
 
-## Getting Started
+## Getting started
 
 To get started, click on the desired package folder from the files list above to see its usage instructions and to set up the required development environment.
 
 ## Citation
 
-If you use this repository in your research, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{
