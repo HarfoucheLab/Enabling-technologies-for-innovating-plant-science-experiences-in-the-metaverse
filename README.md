@@ -9,6 +9,7 @@ This repository aims to help users design and build immersive virtual reality (V
 The repository offers a range of exciting features and assets to enhance users' VR experience. Here's a glimpse of the content you'll find in this repository:
 
 1. Avatar flight system: Soar through the virtual skies with our avatar flight system! This unique code, built on top of UdonToolkit, allows avatars to take flight in VRChat. Experience the exhilaration of freely navigating virtual environments, unlocking new perspectives on the world of plant science.
+[![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
 
 2. Avatar accessories: To make your VR worlds and avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed clothing.
 
