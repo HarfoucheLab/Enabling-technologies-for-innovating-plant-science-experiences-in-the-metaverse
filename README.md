@@ -1,9 +1,6 @@
-
-
-
 # The plant science metaverse
 
-Welcome to the 'Plant science metaverse' repository!
+Welcome to the 'plant science metaverse' repository!
 
 This repository aims to help users design and build immersive virtual reality (VR) experiences that enable the exploration of the plant science world in the metaverse. By leveraging the power of Unity, UdonSharp, VRChat, and our Unity packages, this repository enables the creation of interactive, gamified, bias-free VR worlds and more diverse and inclusive human avatars to advance plant science education, training, research, and innovation.
 
@@ -25,11 +22,18 @@ The repository offers a range of exciting features and assets to enhance users' 
 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_functional.mp4)
 
-We invite you to explore these captivating VR experiences and unlock the wonders of the Plant science metaverse.
+We invite you to explore these captivating VR experiences and unlock the wonders of the plant science metaverse.
 
 ## Getting started
 
 To get started, click on the desired package folder from the files list above to see its usage instructions and to set up the required development environment.
+
+## Resources
+
+[VRChat](https://hello.vrchat.com/)
+[Unity](https://unity.com/)
+[Blender](https://www.blender.org/)
+[UdonSharp](https://udonsharp.docs.vrchat.com/)
 
 ## Citation
 
