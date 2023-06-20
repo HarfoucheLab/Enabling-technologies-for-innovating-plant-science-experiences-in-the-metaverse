@@ -13,7 +13,7 @@ The repository offers a range of exciting features and assets to enhance users' 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
 
 **2. Human avatar accessories:** To make your VR worlds and human avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed team clothing.
-![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
+![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png?v=1)
 
 **3. Xylotron system design with LEGO:** Immerse yourself in the captivating realm of wood anatomy with our VR-based digital Xylotron system gamification. The Xylotron is an AI wood identification system that leverages Xyloscope, a digital imaging system for viewing and recording macroscopic images of wood, to classify wood species. Our gamified package allows users to design and assemble a simulated Xylotron system using LEGO bricks to explore the internal structures of different wood species. See it in action in the video below: 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
