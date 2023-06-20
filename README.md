@@ -31,8 +31,11 @@ To get started, click on the desired package folder from the files list above to
 ## Resources
 
 [VRChat](https://hello.vrchat.com/)
+
 [Unity](https://unity.com/)
+
 [Blender](https://www.blender.org/)
+
 [UdonSharp](https://udonsharp.docs.vrchat.com/)
 
 ## Citation
