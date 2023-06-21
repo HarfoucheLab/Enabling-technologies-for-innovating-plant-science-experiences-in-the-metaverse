@@ -30,7 +30,7 @@
 12. This time, paste the following URL: `https://github.com/Merlin-san/UdonSharp.git`.
 13. Press Enter, and Unity will download and install UdonSharp.
 
-### How to import our Xylotron-based wood species identification Unity package
+### How to import our XyloTron-based wood species identification Unity package
 
 1. Obtain the Unity package from our GitHub repository.
 2. In Unity, open your project or create a new project.

@@ -1,6 +1,6 @@
 
 # The plant science metaverse
-# Xylotron system design with LEGO
+# XyloTron system design with LEGO
 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
 
@@ -30,7 +30,7 @@
 12. This time, paste the following URL: `https://github.com/Merlin-san/UdonSharp.git`.
 13. Press Enter, and Unity will download and install UdonSharp.
 
-### How to import our Xylotron design and assembly Unity package
+### How to import our XyloTron design and assembly Unity package
 
 1. Obtain the Unity package from our GitHub repository.
 2. In Unity, open your project or create a new project.

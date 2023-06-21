@@ -8,17 +8,17 @@ The repository offers a range of exciting features and assets to enhance users' 
 
 **1. Avatar flight system:** Soar through the virtual skies with our avatar flight system! Our unique code, built on top of UdonToolkit, allows avatars to take flight in VRChat. Experience the exhilaration of freely navigating virtual environments, unlocking new perspectives on the world of plant science. See it in action in the video below: 
 
-[![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
+[![XyloScope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
 
 **2. Human avatar accessories:** To make your VR worlds and human avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed team clothing.
 
 ![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png?v=1)
 
-**3. Xylotron system design with LEGO:** Immerse yourself in the captivating realm of wood anatomy with our VR-based digital Xylotron system gamification. The Xylotron is an AI wood identification system that leverages Xyloscope, a digital imaging system for viewing and recording macroscopic images of wood, to classify wood species. Our gamified package allows users to design and assemble a simulated Xylotron system using LEGO bricks to explore the internal structures of different wood species. See it in action in the video below: 
+**3. XyloTron system design with LEGO:** Immerse yourself in the captivating realm of wood anatomy with our VR-based digital XyloTron system gamification. The XyloTron is an AI wood identification system that leverages XyloScope, a digital imaging system for viewing and recording macroscopic images of wood, to classify wood species. Our gamified package allows users to design and assemble a simulated XyloTron system using LEGO bricks to explore the internal structures of different wood species. See it in action in the video below: 
 
-[![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
+[![XyloScope](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xyloscope_Assembly.mp4)
 
-**4. Wood species identification:** Engage in a hands-on experience where you'll virtually prepare, phenotype, and analyze wood samples using the designed VR-based digital Xylotron system from our package. The package allows users to add an RFID tag to wood samples for enhanced traceability and data management which contributes to the fight against illegal logging and illegal wood trade. RFID enables automated identification and tracking of wood samples, improving inventory management and record-keeping. It aids in quality control, research, and supply chain management, offering advantages in authenticity verification and data association and thus, helps to prevent the circulation of illegally sourced wood in the supply chain. Uncover the intricate patterns and characteristics that define each species, deepening your understanding of plant and wood science and its applications, and raising awareness on fighting illegal logging and illegal wood trade.  See it in action in the video below:
+**4. Wood species identification:** Engage in a hands-on experience where you'll virtually prepare, phenotype, and analyze wood samples using the designed VR-based digital XyloTron system from our package. The package allows users to add an RFID tag to wood samples for enhanced traceability and data management which contributes to the fight against illegal logging and illegal wood trade. RFID enables automated identification and tracking of wood samples, improving inventory management and record-keeping. It aids in quality control, research, and supply chain management, offering advantages in authenticity verification and data association and thus, helps to prevent the circulation of illegally sourced wood in the supply chain. Uncover the intricate patterns and characteristics that define each species, deepening your understanding of plant and wood science and its applications, and raising awareness on fighting illegal logging and illegal wood trade.  See it in action in the video below:
 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Xylotron_functional.mp4)
 
@@ -30,13 +30,13 @@ To get started, click on the desired package folder from the files list above to
 
 ## Resources
 
-[VRChat](https://hello.vrchat.com/)
+[VRChat metaverse platform](https://hello.vrchat.com/)
 
-[Unity](https://unity.com/)
+[Unity 3D engine](https://unity.com/)
 
-[Blender](https://www.blender.org/)
+[Blender 3D computer graphics software](https://www.blender.org/)
 
-[UdonSharp](https://udonsharp.docs.vrchat.com/)
+[UdonSharp compiler](https://udonsharp.docs.vrchat.com/)
 
 ## Citation
 
