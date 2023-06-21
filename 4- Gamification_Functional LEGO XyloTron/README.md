@@ -69,7 +69,7 @@ If you use this repository in your research or plant science education, we kindl
 
 ```
 @article{
-	title = {The plant science metaverse},
+	title = {Metaverse technology innovating plant science research and learning},
 	journal = {Trends in plant science},
 	volume = {xx},
 	number = {xx},
