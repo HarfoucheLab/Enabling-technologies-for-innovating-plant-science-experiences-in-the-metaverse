@@ -77,6 +77,6 @@ If you use this repository in your research or plant science education, we kindl
 	year = {2023},
 	doi = {https://doi.org/xxxx},
 	url = {},
-	author = {Antoine L. Harfouche and Farid Nakhle}
+	author = {Antoine L. Harfouche, Piermaria Corona, and Farid Nakhle}
 }
 ```
