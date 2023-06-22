@@ -56,4 +56,8 @@ If you use this repository in your research or plant science education, we kindl
 }
 ```
 
+Note that our GitHub repository is a dynamic realm of innovation, and is constantly updated with fresh features and novel metaverse technologies.
+To stay in the loop and receive timely updates, simply star and watch the repository.
+
 Thank you for joining us on this exciting journey through the plant science metaverse!
+
