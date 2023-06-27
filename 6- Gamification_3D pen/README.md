@@ -27,20 +27,20 @@ Watch: handwrite, sketch, and draw in the air with 3D pen.
 8. Press Enter, and Unity will start downloading and installing the VRChat SDK 3.
 9. Wait for the installation to complete.
 10. After the installation, go back to the Package Manager window.
-11. Click on the "+" button again and choose "Add package from git URL."
+11. Click on the "+" button again and choose "Add package from git URL".
 12. This time, paste the following URL: `https://github.com/Merlin-san/UdonSharp.git`.
 13. Press Enter, and Unity will download and install UdonSharp.
 
 ### How to install VRCMarker
 
 1. Use your web browser to navigate to the VRCMarker repository on the following URL: `https://github.com/z3y/VRCMarker`.
-2. Download the Unity package from the VRCMarker repository
+2. Download the Unity package from the VRCMarker repository.
 3. In the Unity Editor, go to the "Assets" menu at the top.
-4. Select "Import Package" and then choose "Custom Package."
+4. Select "Import Package" and then choose "Custom Package".
 5. Navigate to the location where you saved the Unity package on your computer.
 6. Select the package file and click "Open" to import it.
 7. Unity will display a window with a list of items to import from the package.
-8. Make sure all the desired assets are selected and click "Import."
+8. Make sure all the desired assets are selected and click "Import".
 
 
 ### How to import our 3D pen
@@ -48,11 +48,11 @@ Watch: handwrite, sketch, and draw in the air with 3D pen.
 1. Obtain the Unity package from our GitHub repository.
 2. In Unity, open your project or create a new project.
 3. In the Unity Editor, go to the "Assets" menu at the top.
-4. Select "Import Package" and then choose "Custom Package."
+4. Select "Import Package" and then choose "Custom Package".
 5. Navigate to the location where you saved the Unity package on your computer.
 6. Select the package file and click "Open" to import it.
 7. Unity will display a window with a list of items to import from the package.
-8. Make sure all the desired assets are selected and click "Import."
+8. Make sure all the desired assets are selected and click "Import".
 
 ### How to import assets from the package to your scene
 
@@ -73,7 +73,7 @@ Watch: handwrite, sketch, and draw in the air with 3D pen.
 5. Log in with your VRChat account credentials within the Control Panel.
 6. Fill in the required information, such as the name and description of your world.
 7. Click on the "Build & Publish" button to start the upload process.
-8. Unity will compile the scene and upload
+8. Unity will compile the scene and upload.
 
 
 ## Citation

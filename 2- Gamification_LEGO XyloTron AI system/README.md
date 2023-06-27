@@ -28,7 +28,7 @@ Watch: image and identify wood species using LEGO XyloTron AI system.
 8. Press Enter, and Unity will start downloading and installing the VRChat SDK 3.
 9. Wait for the installation to complete.
 10. After the installation, go back to the Package Manager window.
-11. Click on the "+" button again and choose "Add package from git URL."
+11. Click on the "+" button again and choose "Add package from git URL".
 12. This time, paste the following URL: `https://github.com/Merlin-san/UdonSharp.git`.
 13. Press Enter, and Unity will download and install UdonSharp.
 
@@ -37,11 +37,11 @@ Watch: image and identify wood species using LEGO XyloTron AI system.
 1. Obtain the Unity package from our GitHub repository.
 2. In Unity, open your project or create a new project.
 3. In the Unity Editor, go to the "Assets" menu at the top.
-4. Select "Import Package" and then choose "Custom Package."
+4. Select "Import Package" and then choose "Custom Package".
 5. Navigate to the location where you saved the Unity package on your computer.
 6. Select the package file and click "Open" to import it.
 7. Unity will display a window with a list of items to import from the package.
-8. Make sure all the desired assets are selected and click "Import."
+8. Make sure all the desired assets are selected and click "Import".
 
 ### How to import assets from the package to your scene
 
@@ -62,7 +62,7 @@ Watch: image and identify wood species using LEGO XyloTron AI system.
 5. Log in with your VRChat account credentials within the Control Panel.
 6. Fill in the required information, such as the name and description of your world.
 7. Click on the "Build & Publish" button to start the upload process.
-8. Unity will compile the scene and upload
+8. Unity will compile the scene and upload.
 
 
 ## Citation
