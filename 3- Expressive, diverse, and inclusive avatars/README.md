@@ -1,5 +1,4 @@
-# Enabling technologies for innovating plant science experiences in the metaverse# Enabling technologies for innovating plant science experiences in the metaverse
-
+# Enabling technologies for innovating plant science experiences in the metaverse
 ## Make your avatar more human
 
 ![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
