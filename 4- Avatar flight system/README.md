@@ -3,7 +3,7 @@
 ## Give your avatars the ability to fly
 
 [![Xyloscope](http://faridnakhle.com/unitus/ToMTIPS/Flight_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Flight.mp4)
-Watch: Soar through the virtual skies with our avatar flight system.
+Watch: soar through the virtual skies with our avatar flight system.
 
 ## Getting started
 
@@ -66,7 +66,7 @@ Watch: Soar through the virtual skies with our avatar flight system.
 
 ## Citation
 
-If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{

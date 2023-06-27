@@ -3,10 +3,10 @@
 ## Plant science and smart handheld devices
 
 [![XyloScope](http://faridnakhle.com/unitus/ToMTIPS/Tablet_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Tablet.mp4)
-Watch: Create, share, and collaborate using Google Slides.
+Watch: create, share, and collaborate using Google Slides.
 
 [![XyloScope](http://faridnakhle.com/unitus/ToMTIPS/Phone_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/Phone.mp4)
-Watch: Get immersed in informative lifelike video through screensharing.
+Watch: get immersed in informative lifelike video through screensharing.
 
 ## Getting started
 
@@ -81,7 +81,7 @@ Watch: Get immersed in informative lifelike video through screensharing.
 
 ## Citation
 
-If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{

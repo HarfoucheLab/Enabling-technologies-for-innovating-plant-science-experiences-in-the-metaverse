@@ -3,7 +3,7 @@
 ## Plant science and 3D pen
 
 [![XyloScope](http://faridnakhle.com/unitus/ToMTIPS/Pen_thumb.png)](http://faridnakhle.com/unitus/ToMTIPS/3DPen.mp4)
-Watch: Handwrite, sketch, and draw in the air with 3D pen.
+Watch: handwrite, sketch, and draw in the air with 3D pen.
 
 ## Getting started
 
@@ -78,7 +78,7 @@ Watch: Handwrite, sketch, and draw in the air with 3D pen.
 
 ## Citation
 
-If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{

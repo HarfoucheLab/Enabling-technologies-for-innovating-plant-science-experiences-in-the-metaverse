@@ -67,7 +67,7 @@ Watch: build your own XyloScope using LEGO bricks.
 
 ## Citation
 
-If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{

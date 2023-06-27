@@ -228,7 +228,7 @@ If you use this repository in your research or plant science education, we kindl
 
 ## Citation
 
-If you use this repository in your research or plant science education, we kindly request that you cite our paper using the following BibTeX entry:
+If you use this repository in your research or science education, we kindly request that you cite our paper using the following BibTeX entry:
 
 ```
 @article{
