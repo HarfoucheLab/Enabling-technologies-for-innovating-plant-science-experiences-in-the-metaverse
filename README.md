@@ -27,7 +27,7 @@ Watch: image and identify wood species using LEGO XyloTron AI system.
 
 ## Plant science and human-centric avatars
 
-**Make your avatar more human.**
+**Make your avatar as expressive as you are.**
 
 To make your VR worlds and human avatars more expressive, diverse, and inclusive, we've curated a collection of captivating disability-centric and lab and woodshop safety gear accessories, in addition to custom-designed team clothing.
 

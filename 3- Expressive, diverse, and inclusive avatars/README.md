@@ -1,5 +1,5 @@
 # Enabling technologies for innovating plant science experiences in the metaverse
-## Make your avatar more human
+## Make your avatar as expressive as you are
 
 ![Human avatar accessories](http://faridnakhle.com/unitus/ToMTIPS/avatars.png)
 
